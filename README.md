@@ -1,6 +1,6 @@
 # stock-market-cli
  C++ as a backend to fetch and display the reatime data !FASTEST
-![image](https://github.com/user-attachments/assets/ce6920f9-6073-4cea-94c3-b86283a071ab)
+
 Sure Yash! Here's a clean and professional GitHub `README.md` for your **Stock Market CLI** project:
 
 ---
