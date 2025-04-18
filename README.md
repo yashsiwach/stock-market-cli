@@ -4,6 +4,7 @@
 Sure Yash! Here's a clean and professional GitHub `README.md` for your **Stock Market CLI** project:
 
 ---
+![image](https://github.com/user-attachments/assets/8d5d39b1-9cc7-4940-8f73-4e98984056d9)
 
 ## 📈 Stock Market CLI
 
